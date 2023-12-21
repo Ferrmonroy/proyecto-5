@@ -38,6 +38,6 @@ body {
 }
 
 .img-fluid {
-  max-width: 400px;
+  width: 100%;
   height: auto;
 }
